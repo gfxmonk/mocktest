@@ -29,4 +29,5 @@ setup(
 	install_requires=[
 		'setuptools',
 	],
+	packages=['mocktest', 'mocktest.matchers', 'mocktest.lib'],
 )
